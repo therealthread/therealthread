@@ -2,7 +2,7 @@
   
 <p align="center">
   <a href="https://www.anemys.com" rel="nofollow" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Anemys-grey?style=for-the-badge&logo=oracle&logo=linkedin&logoColor=white" alt="anemys">
+    <img align="center" src="https://img.shields.io/badge/Anemys-grey?style=for-the-badge&logo=oracle>
   </a>
   <br>
   <br>
